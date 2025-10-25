@@ -1,12 +1,11 @@
 # Sáng Tạo Smart Home với ArduinoZigBee
-# Contact: contact@epcb.vn
-
+Heartfelt thanks to [EPCB](https://epcb.vn/pages/frontpage) for standing with the AK Foundation and empowering our mission.
 ## Example Note:
 
 1. ArduinoZigBee/examples/ZigBeeGate/ZigBeeGate.ino
 Demo Gateway kết nối các cảm biến zigbee của Xiaomi (Door, PIR, Button, Temperature and Humidity, Ổ cắm)
 
-![alt text](https://github.com/epcbtech/ArduinoZigBee/blob/master/images/ZigBeeGate.jpg)
+![alt text](https://github.com/ak-embedded-software/ArduinoZigBee/blob/master/images/ZigBeeGate.jpg)
 
 2. ArduinoZigBee/examples/ZigBeeRouter/ZigBeeRouter.ino
 Demo 1 Node Router với các chức năng:
